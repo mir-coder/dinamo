@@ -1,0 +1,60 @@
+html{
+	scroll-behavior: smooth;
+}
+html,
+body {
+	margin: 0 auto;
+	overflow-x: hidden;
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 20px;
+	color: #fff;
+	
+	
+}
+a{color: #fff;}
+/*Прижимаем футер к низу страницы*/
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+.main {
+	flex: 1 0 auto;
+}
+.footer {
+	flex: 0 0 auto;
+}
+
+
+.container{
+	max-width: 1220px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.container-fluid{
+	max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.block-title{
+	text-align: center;
+	&__title{
+		@extend %title-font;
+		padding-bottom: 25px;
+	}
+	&__text{
+		max-width: 632px;
+		width: 100%;
+		text-align: center;
+		margin: 0 auto;
+		padding-bottom: 60px;
+	}
+}
+
+
+
+
+

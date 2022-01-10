@@ -1,0 +1,88 @@
+/*Gilroy*/
+    @font-face {
+        font-family: 'Gilroy';
+        src: url('../fonts/Gilroy-regular.woff2') format('woff2'),
+            url('../fonts/Gilroy-regular.woff') format('woff');
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+    }
+
+/*Helvetica*/   
+    @font-face {
+        font-family: 'Helvetica', sans-serif;
+        src: url('../fonts/Helvetica-Bold.woff2') format('woff2'),
+            url('../fonts/Helvetica-Bold.woff') format('woff');
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+    }
+
+/*Montserrat*/
+    @font-face {
+        font-family: 'Montserrat';
+        src: url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+            url('../fonts/Montserrat-Regular.woff') format('woff');
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Montserrat';
+        src: url('../fonts/Montserrat-Bold.woff2') format('woff2'),
+            url('../fonts/Montserrat-Bold.woff') format('woff');
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+    }
+
+/*Noto Sans*/
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-Regular.woff2') format('woff2'),
+            url('../fonts/NotoSans-Regular.woff') format('woff');
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-Medium.woff2') format('woff2'),
+            url('../fonts/NotoSans-Medium.woff') format('woff');
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-SemiBold.woff2') format('woff2'),
+            url('../fonts/NotoSans-SemiBold.woff') format('woff');
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-SemiBold.woff2') format('woff2'),
+            url('../fonts/NotoSans-SemiBold.woff') format('woff');
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-ExtraBold.woff2') format('woff2'),
+            url('../fonts/NotoSans-ExtraBold.woff') format('woff');
+        font-style: normal;
+        font-weight: 800;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Noto Sans', sans-serif;
+        src: url('../fonts/NotoSans-Black.woff2') format('woff2'),
+            url('../fonts/NotoSans-Black.woff') format('woff');
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+    }
+ 
